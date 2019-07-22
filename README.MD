@@ -14,21 +14,21 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 ## Estrutura do projeto
 
 src
-├── Controllers
-│   └── HomeController.cs
-├── HelloWorld.csproj
-├── Models
-│   └── ErrorViewModel.cs
-├── Program.cs
-├── Properties
-│   └── launchSettings.json
-├── Startup.cs
-├── Views
-│   ├── Home
-│   │   ├── About.cshtml
-│   │   ├── Contact.cshtml
-│   │   ├── Index.cshtml
-│   │   └── Privacy.cshtml
+├── Controllers  
+│   └── HomeController.cs  
+├── HelloWorld.csproj  
+├── Models  
+│   └── ErrorViewModel.cs  
+├── Program.cs  
+├── Properties  
+│   └── launchSettings.json  
+├── Startup.cs  
+├── Views  
+│   ├── Home  
+│   │   ├── About.cshtml  
+│   │   ├── Contact.cshtml  
+│   │   ├── Index.cshtml  
+│   │   └── Privacy.cshtml  
 
 
 ## Instalação

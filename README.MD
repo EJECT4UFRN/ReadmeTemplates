@@ -13,17 +13,16 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ## Estrutura do projeto
 
-src
+src  
 ├── Controllers  
-│   └── HomeController.cs  
-├── HelloWorld.csproj  
+│   └── HomeController.js    
+├── index.html    
 ├── Models  
-│   └── ErrorViewModel.cs  
-├── Program.cs  
-├── Properties  
-│   └── launchSettings.json  
-├── Startup.cs  
-├── Views  
+│   └── form.js    
+├── about.html    
+├── img  
+│   └── background.png      
+├── Views    
 │   ├── Home  
 │   │   ├── About.cshtml  
 │   │   ├── Contact.cshtml  
